@@ -1,6 +1,6 @@
 <h1>Hi, I'm José! <br/><a href="https://github.com/fryservingfries">Cybersecurity Student</a></h1>
 
-<h2>Python Projects:</h2>
+<h2>IT Experience:</h2>
 
 - <b>Mini ITX PC Build</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
