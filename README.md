@@ -1,4 +1,4 @@
-<h1>Hi, I'm José! <br/><a href="https://github.com/fryservingfries">Cybersecurity Student</a></h1>
+<h1>Hi, I'm José! <br/><a href="https://github.com/fryservingfries">IT Management B.S.</a></h1>
 
 <h2>IT Experience:</h2>
 
