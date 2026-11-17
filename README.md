@@ -67,7 +67,7 @@ I picked every part and assembled this PC myself. It's my daily machine and the 
 - **B.S. IT Management**, Western Governors University, 2026
 - **CompTIA A+**, 2024 · **Microsoft Office Specialist: Excel Associate**
 - **U.S. Coast Guard**, 2016–2020, Storekeeper (E-4): logistics and inventory supporting 1,300+ small boats, procurement, and 800+ travel orders
-- **Ascension Seton Digestive Health Clinic**, 2025–2026: office operations, scheduling, insurance verification, and privacy compliance with electronic records
+- **Ascension Seton Digestive Health Clinic**, 2025: set up computers and devices for new employees, troubleshot hardware and printer issues, and supported staff with system questions, alongside office operations, scheduling, insurance verification, and privacy compliance for electronic health records.
 - **Simple Man Martial Arts**, 2026–present: videographer for classes and events
 
 <!--
