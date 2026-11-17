@@ -1,45 +1,76 @@
-<h1>Hi, I'm José! <br/><a href="https://github.com/fryservingfries">IT Management B.S.</a></h1>
+# José Fraile
 
-<h2>IT Experience:</h2>
+Located in Austin, TX. These are the projects I'm currently working on :)
 
-- <b>Mini ITX PC Build</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+**B.S. IT Management** · **CompTIA A+** · **U.S. Coast Guard veteran** · **English / Spanish**
 
-<h2>📺 Popular YouTube Videos</h2>
+[LinkedIn](https://www.linkedin.com/in/josefraile) · [josefraile77@gmail.com](mailto:josefraile77@gmail.com)
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
 
-<h2> 🤳 Connect with me:</h2>
+## Athena: a private AI assistant on my own hardware
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**The problem.** I wanted an assistant that knows my goals and plans my day, without my notes leaving my machine or a monthly bill for routine work.
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/in/josefraile
+**What I built.** A local-first agent platform on my home PC. A local language model handles the everyday work, an Obsidian vault holds everything the agent knows, and Discord is how it reaches me.
 
+**Working today**
+
+- **Local model:** Hermes Agent on Windows 11, running Qwen through LM Studio. Routine work costs nothing and stays on my machine.
+- **Knowledge base:** an Obsidian vault, versioned with Git and backed up to a private GitHub repo.
+- **Executive Assistant:** the first agent. It reads my weekly goals and to-do list and writes a daily plan with the single most important task first.
+- **Delivery:** a Discord server and bot for sending those plans.
+
+**Roadmap**
+
+- Automatic weekday-morning runs, delivered to my phone through Discord
+- Remote access from my MacBook and iPhone over Tailscale
+- Five more specialist agents behind the same interface
+- A public build log with setup notes and the decisions behind them
+
+**What it took.** Standing up a system end to end: installing, configuring, setting permissions, versioning, backing up, documenting, and troubleshooting when something didn't work the first time.
+
+---
+
+## Mini-ITX PC build
+
+I picked every part and assembled this PC myself. It's my daily machine and the server Athena runs on. The goal was a portable build that fits on any desk, so the hard part was fitting full-size performance into a case this small.
+
+<p>
+  <img src="images/itx-build-closed.jpg" alt="Finished Mini-ITX PC in a white case with a carry handle" width="32%">
+  <img src="images/itx-build-open.jpg" alt="Side panel removed, showing the graphics card filling the case" width="32%">
+  <img src="images/itx-build-in-progress.jpg" alt="Motherboard during assembly with the CPU cooler, memory and SSD installed" width="32%">
+</p>
+
+| Part | Component |
+| --- | --- |
+| CPU | AMD Ryzen 7 5700X (8 cores) |
+| Graphics | AMD Radeon RX 6700 XT |
+| Memory | 32GB DDR4, TeamGroup T-Force Vulcan Z |
+| Motherboard | Gigabyte B550I AORUS PRO AX (Mini-ITX, AM4) |
+| Storage | Crucial P5 Plus 1TB Gen4 NVMe SSD |
+| CPU cooler | ID-COOLING IS-55 Black |
+| Power supply | Corsair SF750, 750W |
+| Case | S300, white |
+| OS | Windows 11 |
+
+---
+
+## Skills
+
+- **Systems and support:** Windows, macOS, Microsoft 365, Google Workspace, basic networking
+- **Hardware:** PC assembly, component selection, small-form-factor builds
+- **AI and automation:** Hermes Agent, LM Studio, local language models, Discord bots
+- **Tools:** Git, GitHub, Obsidian, Excel
+- **Audio/visual:** filming classes and events, YouTube production
+
+## Background
+
+- **B.S. IT Management**, Western Governors University, 2026
+- **CompTIA A+**, 2024 · **Microsoft Office Specialist: Excel Associate**
+- **U.S. Coast Guard**, 2016–2020, Storekeeper (E-4): logistics and inventory supporting 1,300+ small boats, procurement, and 800+ travel orders
+- **Ascension Seton Digestive Health Clinic**, 2025–2026: office operations, scheduling, insurance verification, and privacy compliance with electronic records
+- **Simple Man Martial Arts**, 2026–present: videographer for classes and events
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
