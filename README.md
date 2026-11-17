@@ -37,9 +37,7 @@ Located in Austin, TX. These are the projects I'm currently working on :)
 I picked every part and assembled this PC myself. It's my daily machine and the server Athena runs on. The goal was a portable build that fits on any desk, so the hard part was fitting full-size performance into a case this small.
 
 <p>
-  <img src="images/itx-build-closed.jpg" alt="Finished Mini-ITX PC in a white case with a carry handle" width="32%">
-  <img src="images/itx-build-open.jpg" alt="Side panel removed, showing the graphics card filling the case" width="32%">
-  <img src="images/itx-build-in-progress.jpg" alt="Motherboard during assembly with the CPU cooler, memory and SSD installed" width="32%">
+  <img src="https://raw.githubusercontent.com/fryservingfries/Mini-ITX-PC-Build/main/Mini%20ITX%20PC%20Build.png" alt="Mini-ITX PC build" width="32%">
 </p>
 
 | Part | Component |
